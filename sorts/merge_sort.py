@@ -20,8 +20,8 @@ def merge_sort(collection):
     :return: the same collection ordered by ascending
 
     Examples:
-    >>> merge_sort([0, 5, 3, 2, 2])
-    [0, 2, 2, 3, 5]
+    >>> merge_sort([0, 5, 3, 2, 2, 7])
+    [0, 2, 2, 3, 5, 7]
 
     >>> merge_sort([])
     []
